@@ -3,6 +3,7 @@ import 'package:flutter/widgets.dart';
 import 'package:tugas_2/ui/tampil_data.dart';
 
 class FormData extends StatefulWidget {
+  //data didalam ini bisa berubah, seperti untuk input
   const FormData({Key? key}) : super(key: key);
 
   @override

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class TampilData extends StatelessWidget {
+class TampilData extends StatelessWidget { //pake ini karna ga akan ada yang berubah
   final String Nama;
   final String NIM;
   final int TahunLahir;
